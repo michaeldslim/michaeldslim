@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👏 Hi, I'm Michael Lim
+- 🍀 I'm currently learning a few good things
+- 📫 How to reach me: https://toycrane.tk/
+- 🧛 Pronouns: he/him
+
+---
 
 <!--
 **michaeldslim/michaeldslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
