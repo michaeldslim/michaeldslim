@@ -1,6 +1,6 @@
 - 👏 Hi, I'm Michael Lim
 - 🍀 I'm currently learning a few good things
-- 📫 How to reach me: https://toycrane.happyforever.com/
+- 📫 How to reach me: https://michaeldslim.netlify.app/
 - 🧛 Pronouns: he/him
 
 ---
