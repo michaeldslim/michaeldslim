@@ -1,5 +1,5 @@
 - 👏 Hi, I'm Michael Lim
-- 🍀 I'm currently learning a few good things
+- 🍀 I am constantly learning new things
 - 📫 How to reach me: https://michaeldslim.netlify.app/
 - 🧛 Pronouns: he/him
 
